@@ -21,7 +21,7 @@
           >
         </td>
         <td style="text-align: center">
-          <img src="#" alt="avatar" />
+          <img src="/img/nccu_logo.png" alt="avatar" />
           <br />
           <a href="#">[github]</a>
           <a href="#">[cv]</a>

@@ -2,14 +2,13 @@
   <div>
     <c-navbar />
     <Nuxt />
-    <c-footer />
   </div>
 </template>
 
 <style scoped>
 div {
-  width: 90%;
-  margin-right: 5%;
-  margin-left: 5%;
+  width: 80%;
+  margin-right: 10%;
+  margin-left: 10%;
 }
 </style>

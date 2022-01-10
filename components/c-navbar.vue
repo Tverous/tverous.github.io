@@ -1,7 +1,7 @@
 <template>
   <div id="top-navbar">
     <b-navbar toggleable="lg" type="light">
-      <b-navbar-brand brand href="/">Simon Tang</b-navbar-brand>
+      <b-navbar-brand brand href="/">Chia-Wei Tang</b-navbar-brand>
 
       <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>
 
