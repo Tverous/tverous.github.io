@@ -53,6 +53,18 @@ export default {
   margin-top: 1%;
 }
 
+.nuxt-content .note .note-logo-bio {
+  display: table-cell;
+  vertical-align: middle;
+  width: 30%;
+  text-align: center;
+}
+
+.nuxt-content .note .note-logo-bio img {
+  max-height: 12vw;
+  border-radius: 70%;
+}
+
 .nuxt-content .note .note-logo {
   display: table-cell;
   vertical-align: middle;
@@ -61,14 +73,11 @@ export default {
 }
 
 .nuxt-content .note .note-logo img {
-  width: auto;
-  height: 50%;
   max-height: 6vw;
 }
 
 .nuxt-content .note .logo-content p {
   display: inline-block;
-  padding: 1%;
 }
 
 </style>

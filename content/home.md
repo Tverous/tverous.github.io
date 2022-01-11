@@ -19,15 +19,15 @@ Synology
 Email: simontang-t@synology.com
 
 </div>
-<div class="note-logo">
+<div class="note-logo-bio">
 
-![](/img/synology_logo.png)
+![](/img/portrait.png)
 
 <div class="logo-content">
 
-[[CV]]()
+[[CV]](/asset/resume.pdf)
 
-[[Github]]()
+[[Github]](https://github.com/Tverous)
 
 </div>
 
@@ -79,7 +79,7 @@ Advisor: [Prof. Chao-Lin Liu](https://www.cs.nccu.edu.tw/~chaolin/)
 Technical Assistant Intern, July 2021 - June. 2022
 
 - Assist engineers in developing Microsoft cloud-based business solutions for enterprises with over 1,000 employees
-- Serve as a technical seminar lecturer and teach enterprises how to utilize Microsoft's cloud services}, including Azure cloud services and Power Platform developments
+- Serve as a technical seminar lecturer and teach enterprises how to utilize Microsoft's cloud services, including Azure cloud services and Power Platform developments
 
 </div>
 <div class="note-logo">
