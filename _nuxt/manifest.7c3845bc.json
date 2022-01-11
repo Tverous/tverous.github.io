@@ -1,7 +1,6 @@
 {
   "name": "tverous.github.io",
   "short_name": "tverous.github.io",
-  "description": "## Build Setup",
   "icons": [],
   "start_url": "/tverous.github.io/?standalone=true",
   "display": "standalone",
