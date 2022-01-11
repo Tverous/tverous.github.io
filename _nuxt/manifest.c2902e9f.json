@@ -1,7 +1,6 @@
 {
   "name": "my-awesome-project",
   "short_name": "my-awesome-project",
-  "description": "## Build Setup",
   "icons": [],
   "start_url": "tverous.github.io/?standalone=true",
   "display": "standalone",
