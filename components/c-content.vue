@@ -32,7 +32,7 @@ export default {
 .nuxt-content .note .note-content {
   display: table-cell;
   vertical-align: middle;
-  width: 70%;
+  width: 60%;
 }
 
 .nuxt-content .note .note-content :is(h1, h2, h3, h4, h5) {
@@ -56,14 +56,14 @@ export default {
 .nuxt-content .note .note-logo {
   display: table-cell;
   vertical-align: middle;
-  width: 30%;
+  width: 40%;
   text-align: center;
 }
 
 .nuxt-content .note .note-logo img {
   width: auto;
   height: 50%;
-  max-height: 5vw;
+  max-height: 6vw;
 }
 
 .nuxt-content .note .logo-content p {
