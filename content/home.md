@@ -164,9 +164,11 @@ Mentor: [Dr. Chang-Wu Chen](https://github.com/changwu-tw)
 
 ---
 
+- Startup Sponsorship, Innovation Incubation Center, National Chengchi University
+
+- Championship, Independent Student, Department of Computer Science, National Chengchi University
+
 - Undergraduate Research Fund, Taiwan Ministry of Science and Technology
-
-
 
 ### Extracurricular
 
