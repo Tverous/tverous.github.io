@@ -25,9 +25,11 @@ Email: simontang-t@synology.com
 
 <div class="logo-content">
 
-[[CV]](/asset/resume.pdf)
+[[cv]](/asset/resume.pdf)
 
-[[Github]](https://github.com/Tverous)
+[[linkedin]](https://www.linkedin.com/in/chiawei-tang-a5b169167/)
+
+[[github]](https://github.com/Tverous)
 
 </div>
 
@@ -74,12 +76,14 @@ Advisor: [Prof. Chao-Lin Liu](https://www.cs.nccu.edu.tw/~chaolin/)
 <div class="note">
 <div class="note-content">
 
-#### Microsoft
+#### [Microsoft](https://www.microsoft.com/)
 
 Technical Assistant Intern, July 2021 - June. 2022
 
 - Assist engineers in developing Microsoft cloud-based business solutions for enterprises with over 1,000 employees
 - Serve as a technical seminar lecturer and teach enterprises how to utilize Microsoft's cloud services, including Azure cloud services and Power Platform developments
+
+Mentor: Mr. Andy Hung
 
 </div>
 <div class="note-logo">
@@ -93,12 +97,14 @@ Technical Assistant Intern, July 2021 - June. 2022
 
 <div class="note-content">
 
-#### Synology
+#### [Synology](https://www.synology.com/)
 
 Software Engineer, Feb. 2021 - Feb. 2022
 
 - Design and develop automated end-to-end testing architectures from scratch independently with continuous integration and delivery, reducing development time costs by more than 50%
 - Eliminate potential bugs and critical CVE vulnerabilities with C/C++ based on static analysis results, preventing the product from crashing or being vulnerable to critical errors
+
+Mentor: Mr. Willy Yang
 
 </div>
 <div class="note-logo">
@@ -111,7 +117,7 @@ Software Engineer, Feb. 2021 - Feb. 2022
 <div class="note">
 <div class="note-content">
 
-#### Sunnet Cyber
+#### [Sunnet Cyber](https://www.sunnet-cyber.com/index.html)
 
 Software Security Engineer Intern, Oct. 2020 - Feb. 2021
 
@@ -128,11 +134,13 @@ Software Security Engineer Intern, Oct. 2020 - Feb. 2021
 <div class="note">
 <div class="note-content">
 
-#### National Chengchi University
+#### [National Chengchi University](https://www.nccu.edu.tw/)
 
 Teaching Assistant, Sep. 2020 - Jan. 2021
 
 - Assisted 30 different students in understanding the course's content with hand-written handouts and software examples
+
+Mentor: [Dr. Chang-Wu Chen](https://github.com/changwu-tw)
 
 </div>
 <div class="note-logo">
@@ -148,15 +156,17 @@ Teaching Assistant, Sep. 2020 - Jan. 2021
 
 - **Chia-Wei Tang** and Chao-Lin Liu. Projecting your data, Twelfth AAAI Symposium on Educational Advances in Artificial Intelligence, Model AI Assignments (EAAI 2022), 000‒000. Vancouver, Switzerland, 22 February - 1 March 2022. (virtual & onsite) (accepted) [[paper]]() [[slide]]() [[video]]()
 
-- **Chia-Wei Tang**, Chao-Lin Liu, and Po-Sen Chiu. HRRegionNet: Chinese character segmentation in historical documents with regional awareness, Lecture Notes in Computer Science 12824: Proceedings of the Sixteenth International Conference on Document Analysis and Recognition, part 4, (ICDAR 2021), 3‒17. Lausanne, Switzerland, 5-9 September 2021. (virtual & onsite)
+- **Chia-Wei Tang**, Chao-Lin Liu, and Po-Sen Chiu. HRRegionNet: Chinese character segmentation in historical documents with regional awareness, Lecture Notes in Computer Science 12824: Proceedings of the Sixteenth International Conference on Document Analysis and Recognition, part 4, (ICDAR 2021), 3‒17. Lausanne, Switzerland, 5-9 September 2021. (virtual & onsite) [[paper]]() [[slide]]() [[video]]()
 
-- **Chia-Wei Tang**, Chao-Lin Liu, and Po-Sen Chiu. HRCenterNet: An anchorless approach to Chinese character segmentation in historical documents, Proceedings of the Fifth Workshop on Computational Archival Science: digital records in the age of big data, 2020 IEEE International Conference on Big Data (IEEE BigData 2020), 1924‒1930. Atlanta, Georgia, USA, 10-13 December 2020. (virtual)
+- **Chia-Wei Tang**, Chao-Lin Liu, and Po-Sen Chiu. HRCenterNet: An anchorless approach to Chinese character segmentation in historical documents, Proceedings of the Fifth Workshop on Computational Archival Science: digital records in the age of big data, 2020 IEEE International Conference on Big Data (IEEE BigData 2020), 1924‒1930. Atlanta, Georgia, USA, 10-13 December 2020. (virtual) [[paper]]() [[slide]]() [[video]]()
 
 ### Honor
 
 ---
 
 - Undergraduate Research Fund, Taiwan Ministry of Science and Technology
+
+
 
 ### Extracurricular
 
@@ -172,6 +182,8 @@ Teaching Assistant, Sep. 2020 - Jan. 2021
 Technical Volunteer
 
 - Worked with an international team of 10 people to develop the conference’s official website as a full stack web developer and served as a help desk worker during the conference, serving over 1,000 attendees}
+
+Mentor: [Dr. Linfei Wu](https://sites.google.com/a/email.wm.edu/teddy-lfwu/) and [Prof. Weike Pan](http://csse.szu.edu.cn/staff/panwk/index.html)
 
 </div>
 <div class="note-logo">

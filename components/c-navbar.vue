@@ -29,10 +29,6 @@
   color: rgb(165 160 160);
 }
 
-.topnav a:link {
-  text-decoration: none;
-}
-
 .topnav a:hover {
   color: rgb(112 108 108)
 }
