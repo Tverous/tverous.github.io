@@ -11,4 +11,8 @@ div {
   margin-right: 7%;
   margin-left: 7%;
 }
+
+a:link {
+  text-decoration: none;
+}
 </style>

@@ -5,6 +5,8 @@
     <a href="#education">Education</a>
     <a href="#experience">Experience</a>
     <a href="#publication">Publication</a>
+    <a href="#honor">Honor</a>
+    <a href="#extracurricular">Extracurricular</a>
   </div>
 </template>
 
@@ -12,6 +14,7 @@
 .topnav {
   overflow: hidden;
   border-bottom: 1px solid;
+  margin-bottom: 2%;
 }
 
 .topnav #topnav-title {
@@ -20,13 +23,13 @@
 
 .topnav a {
   float: left;
-  text-align: center;
-  padding: 14px;
-  font-size: 1.2vw;
+  margin-right: 2%;
+  margin-bottom: .8%;
+  font-size: 1.3vw;
   color: rgb(165 160 160);
 }
 
 .topnav a:hover {
-  color: rgb(53 53 53);
+  color: rgb(112 108 108)
 }
 </style>

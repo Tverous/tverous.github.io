@@ -17,28 +17,27 @@ export default {
 };
 </script>
 
-// TODO: scoped style
 <style>
+
 .nuxt-content hr {
   margin-top: 1%;
+  margin-bottom: 0%;
+}
+
+.nuxt-content :is(h1, h2, h3, h4, h5) {
+  margin-top: 2%;
+  margin-bottom: 1%;
 }
 
 .nuxt-content .note {
+  display: table;
   width: 100%;
-  overflow: hidden;
-  position: relative;
-  border: solid 1px #ff0000;
 }
 
 .nuxt-content .note .note-content {
+  display: table-cell;
+  vertical-align: middle;
   width: 70%;
-  display: inline-block;
-  border: solid 1px #000;
-}
-
-.nuxt-content .note .note-content :is(h1, h2, h3, h4, h5) {
-  margin-top: 2%;
-  margin-bottom: 1%;
 }
 
 .nuxt-content .note .note-content p {
@@ -54,21 +53,31 @@ export default {
   margin-top: 1%;
 }
 
-.nuxt-content .note .note-logo {
+.nuxt-content .note .note-logo-bio {
+  display: table-cell;
+  vertical-align: middle;
   width: 30%;
   text-align: center;
-  border: solid 1px #000;
-  height: 100%;
-  position: absolute;
-  right: 0;
-  top: 0;
-  display: flex;
-  justify-content: center;
-  align-items: center;
+}
+
+.nuxt-content .note .note-logo-bio img {
+  max-height: 12vw;
+  border-radius: 70%;
+}
+
+.nuxt-content .note .note-logo {
+  display: table-cell;
+  vertical-align: middle;
+  width: 30%;
+  text-align: center;
 }
 
 .nuxt-content .note .note-logo img {
-  width: 50%;
+  max-height: 6vw;
+}
+
+.nuxt-content .note .logo-content p {
+  display: inline-block;
 }
 
 </style>
