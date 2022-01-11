@@ -3,30 +3,25 @@ title: home
 ---
 
 <br />
-<table>
-  <tbody>
-    <td>
-      <div>
-        <h4>Chia-Wei Tang</h4>
-        <p>
-          Software Engineer
-          <br />
-          Security Incident Response Team
-          <br />
-          Infrastructure and Network Division
-          <br />
-          Synology
-        </p>
-      </div>
-        <a href="mailto: simontang-t@synology.com">
-          email: simontang-t@synology.com
-        </a>
-    </td>
-    <td>
-      <img src="/img/synology_logo.jpg" alt="logo" />
-    </td>
-  </tbody>
-</table>
+<div class="note">
+
+<div class="note-content">
+
+#### Synology
+
+Software Engineer
+
+- Design and develop automated end-to-end testing architectures from scratch independently with continuous integration and delivery, reducing development time costs by more than 50%
+- Eliminate potential bugs and critical CVE vulnerabilities with C/C++ based on static analysis results, preventing the product from crashing or being vulnerable to critical errors
+
+</div>
+<div class="note-logo">
+
+![](/img/microsoft_logo.png)
+
+</div>
+
+</div>
 
 #### Bio
 
@@ -40,77 +35,69 @@ My research interests focus on cybersecurity and machine learning.
 
 ---
 
-<table>
-  <tbody>
-    <td>
-      <div>
-        <h6>National Chengchi University</h6>
-        <p>
-          B.S. in Computer Science, Sep. 2019 - June 2021
-          <br />
-          Advisor: <a href="https://www.cs.nccu.edu.tw/~chaolin/">Prof. Chao-Lin Liu</a>
-        </p>
-      </div>
-    </td>
-    <td>
-      <img src="/img/nccu_logo.png" alt="logo" />
-    </td>
-  </tbody>
-</table>
+<div class="note">
+
+<div class="note-content">
+
+#### National Chengchi University
+
+B.S. in Computer Science
+
+Sep. 2019 - June 2021
+
+</div>
+<div class="note-logo">
+
+![](/img/nccu_logo.png)
+
+</div>
+
+</div>
 
 #### Experience
 
 ---
 
-<table>
-  <tbody>
-    <tr>
-      <td>
-      <div>
-        <h6><a href="#">Microsoft</a>, Taipei, Taiwan</h6>
-        <p>
-          Technical Assistant Intern,  July 2021 - June 2022
-          <br />
-          Mentor: Andy Hung
-        </p>
-      </div>
-    </td>
-    <td>
-      <img src="/img/microsoft_logo.png" alt="logo" />
-    </td>
-    </tr>
-    <tr>
-      <td>
-      <div>
-        <h6><a href="#">Synology</a>, Taipei, Taiwan </h6>
-        <p>
-          Software Engineer, Feb. 2021 - Feb. 2022
-          <br />
-          Mentor: Willy Yang
-        </p>
-      </div>
-    </td>
-    <td>
-      <img src="/img/synology_logo.jpg" alt="logo" />
-    </td>
-    </tr>
-    <tr>
-      <td>
-      <div>
-        <h6><a href="#">Sunnet Cyber</a>, Taipei, Taiwan</h6>
-        <p>
-          Software Security Engineer Intern,  Oct. 2020 - Feb. 2021
-          <br />
-          Mentor: Daniel Liao
-        </p>
-      </div>
-    </td>
-    <td>
-      <img src="/img/sunnet_cyber_logo.png" alt="logo" />
-    </td>
-    </tr>
-  </tbody>
-</table>
+<div class="note">
+
+<div class="note-content">
+
+#### Synology
+
+Software Engineer
+
+- Design and develop automated end-to-end testing architectures from scratch independently with continuous integration and delivery, reducing development time costs by more than 50%
+- Eliminate potential bugs and critical CVE vulnerabilities with C/C++ based on static analysis results, preventing the product from crashing or being vulnerable to critical errors
+
+</div>
+<div class="note-logo">
+
+![](/img/microsoft_logo.png)
+
+</div>
+
+</div>
+
+<div class="note">
+
+<div class="note-content">
+
+#### Synology
+
+Software Engineer
+
+- Design and develop automated end-to-end testing architectures from scratch independently with continuous integration and delivery, reducing development time costs by more than 50%
+- Eliminate potential bugs and critical CVE vulnerabilities with C/C++ based on static analysis results, preventing the product from crashing or being vulnerable to critical errors
+
+</div>
+<div class="note-logo">
+
+![](/img/microsoft_logo.png)
+
+</div>
+
+</div>
+
 
 #### Publication
 
@@ -127,3 +114,27 @@ My research interests focus on cybersecurity and machine learning.
 ---
 
 - Undergraduate Research Fund, Taiwan Ministry of Science and Technology
+
+### Extracurricular
+
+---
+
+
+<div class="note">
+
+<div class="note-content">
+
+#### Synology
+
+Software Engineer
+
+- Design and develop automated end-to-end testing architectures from scratch independently with continuous integration and delivery, reducing development time costs by more than 50%
+- Eliminate potential bugs and critical CVE vulnerabilities with C/C++ based on static analysis results, preventing the product from crashing or being vulnerable to critical errors
+
+</div>
+<div class="note-logo">
+
+![](/img/microsoft_logo.png)
+
+</div>
+</div>
