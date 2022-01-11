@@ -24,6 +24,11 @@ export default {
   margin-bottom: 0%;
 }
 
+.nuxt-content :is(h1, h2, h3, h4, h5) {
+  margin-top: 2%;
+  margin-bottom: 1%;
+}
+
 .nuxt-content .note {
   display: table;
   width: 100%;
@@ -32,12 +37,7 @@ export default {
 .nuxt-content .note .note-content {
   display: table-cell;
   vertical-align: middle;
-  width: 60%;
-}
-
-.nuxt-content .note .note-content :is(h1, h2, h3, h4, h5) {
-  margin-top: 2%;
-  margin-bottom: 1%;
+  width: 70%;
 }
 
 .nuxt-content .note .note-content p {
@@ -56,7 +56,7 @@ export default {
 .nuxt-content .note .note-logo {
   display: table-cell;
   vertical-align: middle;
-  width: 40%;
+  width: 30%;
   text-align: center;
 }
 

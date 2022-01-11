@@ -23,14 +23,17 @@
 
 .topnav a {
   float: left;
-  text-align: center;
   margin-right: 2%;
   margin-bottom: .8%;
   font-size: 1.3vw;
   color: rgb(165 160 160);
 }
 
+.topnav a:link {
+  text-decoration: none;
+}
+
 .topnav a:hover {
-  color: rgb(53 53 53);
+  color: rgb(112 108 108)
 }
 </style>
