@@ -23,7 +23,6 @@ Email: simontang-t@synology.com
 
 ![](/img/synology_logo.png)
 
-
 <div class="logo-content">
 
 [[CV]]()
