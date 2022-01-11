@@ -17,23 +17,22 @@ export default {
 };
 </script>
 
-// TODO: scoped style
 <style>
+
 .nuxt-content hr {
   margin-top: 1%;
+  margin-bottom: 0%;
 }
 
 .nuxt-content .note {
+  display: table;
   width: 100%;
-  overflow: hidden;
-  position: relative;
-  border: solid 1px #ff0000;
 }
 
 .nuxt-content .note .note-content {
+  display: table-cell;
+  vertical-align: middle;
   width: 70%;
-  display: inline-block;
-  border: solid 1px #000;
 }
 
 .nuxt-content .note .note-content :is(h1, h2, h3, h4, h5) {
@@ -55,20 +54,21 @@ export default {
 }
 
 .nuxt-content .note .note-logo {
+  display: table-cell;
+  vertical-align: middle;
   width: 30%;
   text-align: center;
-  border: solid 1px #000;
-  height: 100%;
-  position: absolute;
-  right: 0;
-  top: 0;
-  display: flex;
-  justify-content: center;
-  align-items: center;
 }
 
 .nuxt-content .note .note-logo img {
-  width: 50%;
+  width: auto;
+  height: 50%;
+  max-height: 5vw;
+}
+
+.nuxt-content .note .logo-content p {
+  display: inline-block;
+  padding: 1%;
 }
 
 </style>
