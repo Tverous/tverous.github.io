@@ -1,24 +1,32 @@
 <template>
-  <div id="top-navbar">
-    <b-navbar toggleable="lg" type="light">
-      <b-navbar-brand brand href="/">Chia-Wei Tang</b-navbar-brand>
-
-      <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>
-
-      <b-collapse id="nav-collapse" is-nav>
-        <b-navbar-nav align="center">
-          <b-nav-item href="#experience">Experiences</b-nav-item>
-          <b-nav-item href="#publications">Publications</b-nav-item>
-          <b-nav-item href="#honors">Honors</b-nav-item>
-        </b-navbar-nav>
-      </b-collapse>
-    </b-navbar>
+  <div class="topnav">
+    <a id="topnav-title" href="/">Chia-Wei Tang</a>
+    <a href="#bio">Bio</a>
+    <a href="#education">Education</a>
+    <a href="#experience">Experience</a>
+    <a href="#publication">Publication</a>
   </div>
 </template>
 
 <style scoped>
-#top-navbar {
-  background-color: white;
+.topnav {
+  overflow: hidden;
   border-bottom: 1px solid;
+}
+
+.topnav #topnav-title {
+  color: black;
+}
+
+.topnav a {
+  float: left;
+  text-align: center;
+  padding: 14px;
+  font-size: 1.2vw;
+  color: rgb(165 160 160);
+}
+
+.topnav a:hover {
+  color: rgb(53 53 53);
 }
 </style>

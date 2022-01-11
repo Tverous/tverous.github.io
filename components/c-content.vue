@@ -23,24 +23,25 @@ export default {
   margin-top: 1%;
 }
 
-.nuxt-content .note {
-  color: red;
+.nuxt-content table {
+  width: 100%;
+  margin-bottom: 1%;
 }
 
-.nuxt-content .note .note-content {
-  width: 70%;
-  height: auto;
+.nuxt-content table p {
+  line-height: 1.5;
 }
 
-.nuxt-content .note .note-logo {
-  width: 30%;
-  height: auto;
-  text-align: center;
-  float: right;
-}
-
-.nuxt-content .note-logo img {
+.nuxt-content table td:nth-child(1) {
   width: 60%;
+}
+
+.nuxt-content table td:nth-child(2) {
+  text-align: center;
+}
+
+.nuxt-content table td img {
+  width: 50%;
   height: auto;
 }
 </style>

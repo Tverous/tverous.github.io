@@ -7,8 +7,8 @@
 
 <style scoped>
 div {
-  width: 80%;
-  margin-right: 10%;
-  margin-left: 10%;
+  width: 86%;
+  margin-right: 7%;
+  margin-left: 7%;
 }
 </style>
