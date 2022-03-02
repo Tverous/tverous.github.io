@@ -74,26 +74,6 @@ Advisor: [Prof. Chao-Lin Liu](https://www.cs.nccu.edu.tw/~chaolin/)
 ---
 
 <div class="note">
-<div class="note-content">
-
-#### [Microsoft](https://www.microsoft.com/)
-
-Technical Assistant Intern, July 2021 - June. 2022
-
-- Assist engineers in developing Microsoft cloud-based business solutions for enterprises with over 1,000 employees
-- Serve as a technical seminar lecturer and teach enterprises how to utilize Microsoft's cloud services, including Azure cloud services and Power Platform developments
-
-Mentor: Mr. Andy Hung
-
-</div>
-<div class="note-logo">
-
-![](/img/microsoft_logo.png)
-
-</div>
-</div>
-
-<div class="note">
 
 <div class="note-content">
 
