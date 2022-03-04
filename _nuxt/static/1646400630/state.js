@@ -1,0 +1,1 @@
+window.__NUXT__=(function(a){return {staticAssetsBase:"\u002Ftverous.github.io\u002F_nuxt\u002Fstatic\u002F1646400630",layout:"default",error:a,serverRendered:true,routePath:"\u002F",config:{_app:{basePath:"\u002Ftverous.github.io\u002F",assetsPath:"\u002Ftverous.github.io\u002F_nuxt\u002F",cdnURL:a},content:{dbHash:"e4426230"}}}}(null));
