@@ -12,6 +12,6 @@ body {
 
 a:link {
   text-decoration: none;
-  color: rgb(43 42 122)
+  color: rgb(43 42 122);
 }
 </style>

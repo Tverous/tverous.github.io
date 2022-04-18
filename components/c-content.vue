@@ -4,21 +4,20 @@
   </article>
 </template>
 
-<script>
+<script lang="ts">
 export default {
   data() {
     return {
-      page: {},
-    };
+      page: {}
+    }
   },
   async fetch() {
-    this.page = await this.$content('home').fetch();
-  },
-};
+    this.page = await this.$content('home').fetch()
+  }
+}
 </script>
 
 <style>
-
 .nuxt-content hr {
   margin-top: 1%;
   margin-bottom: 0%;
@@ -49,7 +48,7 @@ export default {
   margin-top: 1%;
 }
 
-.nuxt-content .note .note-content ul li{
+.nuxt-content .note .note-content ul li {
   margin-top: 1%;
 }
 
@@ -79,5 +78,4 @@ export default {
 .nuxt-content .note .logo-content p {
   display: inline-block;
 }
-
 </style>

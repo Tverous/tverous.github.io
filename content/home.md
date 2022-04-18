@@ -89,7 +89,7 @@ Mentor: Mr. Willy Yang
 </div>
 <div class="note-logo">
 
-![](/img/synology_logo.png)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Synology_Logo.svg/1280px-Synology_Logo.svg.png)
 
 </div>
 </div>
@@ -153,7 +153,6 @@ Mentor: [Dr. Chang-Wu Chen](https://github.com/changwu-tw)
 ### Extracurricular
 
 ---
-
 
 <div class="note">
 

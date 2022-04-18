@@ -33,7 +33,7 @@ jobs:
             ${{ runner.os }}-node-
 
       - name: Install dependencies 👨🏻‍💻
-        run: yarn 
+        run: yarn
 
       - name: Generate
         run: yarn generate

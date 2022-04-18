@@ -6,7 +6,8 @@
     "dev": "nuxt",
     "build": "nuxt build",
     "start": "nuxt start",
-    "generate": "nuxt generate"
+    "generate": "nuxt generate",
+    "prepare": "husky install"
   },
   "dependencies": {
     "@nuxt/content": "^1.15.1",
@@ -19,7 +20,14 @@
     "webpack": "^4.46.0"
   },
   "devDependencies": {
+    "@commitlint/config-conventional": "^16.2.1",
     "@nuxt/types": "^2.15.8",
-    "@nuxt/typescript-build": "^2.1.0"
+    "@nuxt/typescript-build": "^2.1.0",
+    "@nuxtjs/eslint-config": "^9.0.0",
+    "@nuxtjs/eslint-config-typescript": "^9.0.0",
+    "commitlint": "^16.2.3",
+    "eslint": "^8.13.0",
+    "husky": "^7.0.0",
+    "prettier": "2.6.2"
   }
 }
