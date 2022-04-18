@@ -12,6 +12,7 @@ export default {
     }
   },
   async fetch() {
+    // @ts-ignore
     this.page = await this.$content('home').fetch()
   }
 }
