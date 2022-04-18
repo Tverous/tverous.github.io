@@ -79,7 +79,7 @@ Advisor: [Prof. Chao-Lin Liu](https://www.cs.nccu.edu.tw/~chaolin/)
 
 #### [Synology](https://www.synology.com/)
 
-Software Engineer, Feb. 2021 - Feb. 2022
+Software Engineer, Feb. 2021 - March. 2022
 
 - Design and develop automated end-to-end testing architectures from scratch independently with continuous integration and delivery, reducing development time costs by more than 50%
 - Eliminate potential bugs and critical CVE vulnerabilities with C/C++ based on static analysis results, preventing the product from crashing or being vulnerable to critical errors
@@ -89,7 +89,29 @@ Mentor: Mr. Willy Yang
 </div>
 <div class="note-logo">
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Synology_Logo.svg/1280px-Synology_Logo.svg.png)
+![](/img/synology_logo.png)
+
+</div>
+</div>
+
+<div class="note">
+
+<div class="note-content">
+
+#### [Microsoft](https://www.microsoft.com/)
+
+Technical Assistant Intern, July. 2021 - Feb. 2022
+
+- Assist engineers in developing Microsoft cloud-based business solutions for enterprises with over 1,000 employees
+- Serve as a technical seminar lecturer and teach enterprises how to utilize Microsoft’s cloud services,
+  including Azure cloud services and Power Platform developments
+
+Mentor: [Mr. Andy Hung](https://www.linkedin.com/in/andy-hung-515a7340?originalSubdomain=tw)
+
+</div>
+<div class="note-logo">
+
+![](/img/microsoft_logo.png)
 
 </div>
 </div>

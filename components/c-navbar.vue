@@ -10,26 +10,26 @@
   </div>
 </template>
 
-<style scoped>
+<style lang="scss" scoped>
 .topnav {
   overflow: hidden;
   border-bottom: 1px solid;
   margin-bottom: 2%;
-}
 
-.topnav #topnav-title {
-  color: black;
-}
+  #topnav-title {
+    color: black;
+  }
 
-.topnav a {
-  float: left;
-  margin-right: 2%;
-  margin-bottom: 0.8%;
-  font-size: 1.3vw;
-  color: rgb(165 160 160);
-}
+  a {
+    float: left;
+    margin-right: 2%;
+    margin-bottom: 0.8%;
+    font-size: 1.3vw;
+    color: rgb(165 160 160);
+  }
 
-.topnav a:hover {
-  color: rgb(112 108 108);
+  a:hover {
+    color: rgb(112 108 108);
+  }
 }
 </style>
