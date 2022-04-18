@@ -7,6 +7,7 @@
 <style>
 body {
   font-family: Georgia, serif;
+  font-size: 1.1vw;
   line-height: 1.5;
 }
 

@@ -53,8 +53,8 @@ export default {
       width: 30%;
       text-align: center;
       img {
-        max-height: 12vw;
-        border-radius: 70%;
+        max-height: 15vw;
+        border-radius: 10%;
       }
     }
     .note-logo {
@@ -63,7 +63,9 @@ export default {
       width: 30%;
       text-align: center;
       img {
+        min-height: 4vw;
         max-height: 6vw;
+        max-width: 15vw;
       }
     }
     .logo-content {
