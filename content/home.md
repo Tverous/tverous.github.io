@@ -1,22 +1,17 @@
 ---
-title: home
+title: 'home'
 ---
 
 <div class="note">
-
 <div class="note-content">
 
 ### Chia-Wei Tang
 
-Software Engineer
+M.S. in Computer Science
 
-Security Incident Response Team
+Virginia Tech
 
-Infrastructure and Network Division
-
-Synology
-
-Email: simontang-t@synology.com
+Email: cwtang@vt.edu
 
 </div>
 <div class="note-logo-bio">
@@ -25,31 +20,36 @@ Email: simontang-t@synology.com
 
 <div class="logo-content">
 
-[[cv]](/asset/resume.pdf)
-
-[[linkedin]](https://www.linkedin.com/in/chiawei-tang-a5b169167/)
+[[linkedin]](https://www.linkedin.com/in/chiawei-tang/)
 
 [[github]](https://github.com/Tverous)
 
 </div>
-
 </div>
 </div>
-
-### Bio
-
----
-
-I am a software engineer at Synology.
-
-My research interests focus on cybersecurity and machine learning.
 
 ### Education
 
 ---
 
 <div class="note">
+<div class="note-content">
 
+#### Virginia Tech
+
+M.S. in Computer Science
+
+Aug. 2022 - June 2023
+
+</div>
+<div class="note-logo">
+
+![](/img/vt_logo.png)
+
+</div>
+</div>
+
+<div class="note">
 <div class="note-content">
 
 #### National Chengchi University
@@ -66,7 +66,6 @@ Advisor: [Prof. Chao-Lin Liu](https://www.cs.nccu.edu.tw/~chaolin/)
 ![](/img/nccu_logo.png)
 
 </div>
-
 </div>
 
 ### Experience

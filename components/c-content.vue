@@ -61,12 +61,12 @@ export default {
     .note-logo {
       display: table-cell;
       vertical-align: middle;
-      width: 30%;
+      width: 40%;
       text-align: center;
       img {
         min-height: 4vw;
         max-height: 6vw;
-        max-width: 15vw;
+        max-width: 17vw;
       }
     }
     .logo-content {
