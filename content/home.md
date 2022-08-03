@@ -118,7 +118,7 @@ Mentor: [Mr. Andy Hung](https://www.linkedin.com/in/andy-hung-515a7340?originalS
 <div class="note">
 <div class="note-content">
 
-#### [Sunnet Cyber](https://www.sunnet-cyber.com/index.html)
+#### [Sunnet Cyber](https://www.sunnet-cyber.com/)
 
 Software Security Engineer Intern, Oct. 2020 - Feb. 2021
 
