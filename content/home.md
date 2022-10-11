@@ -39,7 +39,7 @@ Email: cwtang@vt.edu
 
 M.S. in Computer Science
 
-Aug. 2022 - June 2023
+Aug. 2022 - June 2024
 
 </div>
 <div class="note-logo">
