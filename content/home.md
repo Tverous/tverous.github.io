@@ -40,6 +40,8 @@ Email: cwtang@vt.edu
 M.S. in Computer Science
 
 Aug. 2022 - June 2024
+  
+Advisor: [Prof. Chris Thomas](https://people.cs.vt.edu/chris/)
 
 </div>
 <div class="note-logo">
